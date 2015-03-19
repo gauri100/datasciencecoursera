@@ -1,2 +1,2 @@
 # datasciencecoursera
-class project
+class project basics
